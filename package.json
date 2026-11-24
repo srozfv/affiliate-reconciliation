@@ -1,0 +1,1 @@
+{"name":"affiliate-reconciliation","version":"1.0.0","private":true,"description":"Affiliate CPA reconciliation workbench","scripts":{"test":"node --test test/*.test.cjs","generate":"node scripts/generate.cjs","report":"node scripts/report.cjs","start":"node scripts/serve.cjs"},"engines":{"node":">=20"},"license":"MIT","devDependencies":{"jsdom":"^26.1.0"}}

@@ -1,0 +1,46 @@
+{
+  "finance": [
+    {
+      "currency": "GBP",
+      "recognized_cents": 9036500,
+      "partner_cents": 6639500,
+      "margin_cents": 2397000,
+      "due_cents": 6239500,
+      "held_cents": 400000,
+      "exposure_cents": 1042000
+    }
+  ],
+  "cutoff": "2026-11-24",
+  "start": "1900-01-01",
+  "end": "2026-11-24",
+  "funnel": {
+    "clicks": 6009,
+    "registrations": 1842,
+    "ftd": 862
+  },
+  "meta": {
+    "trackerRows": 894,
+    "advertiserRows": 866,
+    "trackerUnique": 864,
+    "advertiserUnique": 835,
+    "duplicates": 30,
+    "ignored": 0,
+    "ambiguous": 13
+  },
+  "counts": {
+    "status_mismatch": 56,
+    "pending": 23,
+    "rejected": 19,
+    "reversed": 15,
+    "missing_advertiser": 29,
+    "identity_mismatch": 9,
+    "amount_mismatch": 15,
+    "currency_mismatch": 18,
+    "snapshot_conflict": 13,
+    "below_min_deposit": 7,
+    "registration_window": 1,
+    "deposit_window": 1,
+    "not_last_click": 1,
+    "multiple_ftd": 2
+  }
+}
